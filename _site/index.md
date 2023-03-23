@@ -11,14 +11,14 @@ tags:
 --- 
           <section class="box one">
             <div class="container"><img src="images/design0.jpg" alt="avatar" class="image"><div class="overlay">
-              <a href="design.html"><div class="text">Design</div></a>
+              <a href="stylesheet"><div class="text">Design</div></a>
               </div>
             </div>
           </section>
           
           <section class="box two">
             <div class="container"><img src="images/midnight club tshirt design.jpg" alt="logo" class="src"><div class="overlay">
-              <a href="logos.html"><div class="text">Logo's</div></a>
+              <a href="stylesheet"><div class="text">Logo's</div></a>
               </div>
           </div>
           </section>
@@ -29,6 +29,6 @@ tags:
           
           <section class="box four">
             <div class="container"><img src="images/headshotjohn.jpg" alt="headshot" class="src"><div class="overlay">
-              <a href="about.html"><div class="text">About Me</div></a>
+              <a href="stylesheet"><div class="text">About Me</div></a>
           </div>
           </section>
